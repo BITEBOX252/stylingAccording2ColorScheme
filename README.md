@@ -1,0 +1,1 @@
+# stylingAccording2ColorScheme
